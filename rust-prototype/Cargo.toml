@@ -1,0 +1,10 @@
+[package]
+name = "banking-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "banking"
+path = "src/main.rs"
+
+[dev-dependencies]

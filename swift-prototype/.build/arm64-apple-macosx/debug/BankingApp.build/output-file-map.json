@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/master.swiftdeps"
+  },
+  "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingApp/main.swift": {
+    "dependencies": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.d",
+    "object": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.swift.o",
+    "swiftmodule": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.swiftdeps",
+    "diagnostics": "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.dia"
+  }
+}

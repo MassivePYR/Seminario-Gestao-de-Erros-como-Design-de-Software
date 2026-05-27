@@ -1,0 +1,900 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.xctest/Contents/MacOS/BankingSwiftPackageTests",
+      "packagePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype",
+      "productName" : "BankingSwiftPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.BankingApp-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/sources",
+      "importPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingApp/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "BankingApp",
+      "moduleOutputPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingApp.swiftmodule",
+      "objects" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "BankingApp_main",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift_prototype"
+      ],
+      "outputFileMapPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingApp/main.swift"
+      ],
+      "tempsPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.BankingCore-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/sources",
+      "importPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/Bank.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/StressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/TransferError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BankingCore",
+      "moduleOutputPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingCore.swiftmodule",
+      "objects" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/Bank.swift.o",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/StressTests.swift.o",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/TransferError.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/include/BankingCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift_prototype"
+      ],
+      "outputFileMapPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/Bank.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/StressTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/TransferError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/Bank.swift",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/StressTests.swift",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/TransferError.swift"
+      ],
+      "tempsPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.BankingSwiftPackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/sources",
+      "importPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BankingSwiftPackageTests",
+      "moduleOutputPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingSwiftPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/include/BankingSwiftPackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift_prototype"
+      ],
+      "outputFileMapPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingSwiftPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.BankingTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/sources",
+      "importPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Tests/BankingTests/BankingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BankingTests",
+      "moduleOutputPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingTests.swiftmodule",
+      "objects" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/BankingTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "swift_prototype"
+      ],
+      "outputFileMapPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/BankingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules/BankingTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Tests/BankingTests/BankingTests.swift"
+      ],
+      "tempsPath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "BankingApp" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BankingApp",
+      "-package-name",
+      "swift_prototype",
+      "-c",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingApp/main.swift",
+      "-I",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "BankingApp_main",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift_prototype",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BankingCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BankingCore",
+      "-package-name",
+      "swift_prototype",
+      "-c",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/Bank.swift",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/StressTests.swift",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/TransferError.swift",
+      "-I",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/include/BankingCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift_prototype",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BankingSwiftPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BankingSwiftPackageTests",
+      "-package-name",
+      "swift_prototype",
+      "-c",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/include/BankingSwiftPackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift_prototype",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BankingTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BankingTests",
+      "-package-name",
+      "swift_prototype",
+      "-c",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Tests/BankingTests/BankingTests.swift",
+      "-I",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "swift_prototype",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "BankingApp" : [
+      "BankingCore"
+    ],
+    "BankingCore" : [
+
+    ],
+    "BankingSwiftPackageTests" : [
+      "BankingTests",
+      "BankingCore"
+    ],
+    "BankingTests" : [
+      "BankingCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp-entitlement.plist"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingApp/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/sources"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/Bank.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/StressTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/TransferError.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingApp.product/Objects.LinkFileList"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/Bank.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/StressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Sources/BankingCore/TransferError.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/sources"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/sources"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/Bank.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/StressTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingCore.build/TransferError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/BankingTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingSwiftPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/Tests/BankingTests/BankingTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/BankingTests.build/sources"
+    },
+    "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/massive/Documents/Linguagem e Paradigmas de Programação/Seminario-Gestão-de-Erros-como-Design-de-Software/swift-prototype/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
